@@ -1,0 +1,55 @@
+
+.train-name{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  font-size: 60px;
+  line-height: 0;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+}
+.box-form {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 30%;
+    height: 80%;
+    background: #FFFFFF;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+  }
+  
+.box-form .right h3 {
+   margin-top: 10%;
+    font-size: 40px;
+    line-height: 0;
+  	text-align: center;
+}
+.box-form .right h4 {
+  margin-top: 10%;
+  font-size: 25px;
+  line-height: 0;
+  text-align: center;
+}
+
+.box-form .right input {
+  width: 80%;
+  padding: 5px;
+  margin-left: 10%;
+  margin-top: 20px;
+  font-size: 14px;
+  border: black;
+  border: 1px solid gray;
+}
+
+.form-select{
+  width: 80%;
+  padding: 5px;
+  margin-left: 10%;
+  margin-top: 20px;
+  font-size: 14px;
+  border: black;
+  border: 1px solid gray;
+}
